@@ -1,0 +1,44 @@
+{
+"hotkeys": {
+        "num_8": {
+            "type": "hold",
+            "setting": "lwt_high"
+            },
+        "num_2": {
+            "type": "hold",
+            "setting": "lwt_low"
+            },
+        "num_4": {
+            "type": "hold",
+            "setting": "lwt_slow"
+            },
+        "num_6": {
+            "type": "hold",
+            "setting": "lwt_fast"
+            },
+        "num_9": {
+            "type": "set",
+            "setting": "hold_mode"
+            },
+        "num_3": {
+            "type": "set",
+            "setting": "reset_mode"
+            },
+        "num_add": {
+            "type": "set",
+            "setting": "increase_spd"
+            },
+        "num_subtract": {
+            "type": "set",
+            "setting": "decrease_spd"
+            },
+        "num_multiply": {
+            "type": "hold",
+            "setting": "rand_pos"
+            },
+        "num_divide": {
+            "type": "hold",
+            "setting": "rand_dur"
+            }
+    }
+}
